@@ -1,4 +1,4 @@
-import CardBodyContainer from "../card-body-container/category-body-container.component";
+import CardBodyContainer from "../category-card-body/category-body-container.component";
 import "./category-card.styles.scss";
 
 const CategoryCard = ({ category }) => {
